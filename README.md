@@ -11,3 +11,5 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 [1 - Color Flipper](https://rafaelhmp.github.io/javascript-basic-projects/1-color-flipper/)
 
 [2 - Counter](https://rafaelhmp.github.io/javascript-basic-projects/2-counter/)
+
+[3 - Reviews](https://rafaelhmp.github.io/javascript-basic-projects/3-reviews/)
