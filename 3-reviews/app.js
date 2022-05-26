@@ -85,6 +85,14 @@ prevBtn.addEventListener('click', () => {
 
 // Escolhe randomicamente uma pessoa
 randomBtn.addEventListener('click', () => {
-  currentItem = Math.floor(Math.random() * reviews.length);
+  currentItem = randomNum();
   showPerson();
 })
+
+function randomNum() {
+  const aux = Math.floor(Math.random() * reviews.length);
+  if(currentItem === aux)
+    return randomNum();
+  
+  return aux;
+}
