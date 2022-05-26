@@ -9,3 +9,4 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 ## :computer: Projetos 
 
 [1 - Color Flipper](https://rafaelhmp.github.io/javascript-basic-projects/1-color-flipper/)
+[2 - Counter](https://rafaelhmp.github.io/javascript-basic-projects/2-counter/)
