@@ -14,3 +14,5 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 
 [3 - Reviews](https://rafaelhmp.github.io/javascript-basic-projects/3-reviews/)
 >Aqui criei uma feature para que o random button não repita valores
+
+[4 - Navbar](https://rafaelhmp.github.io/javascript-basic-projects/4-navbar/)
