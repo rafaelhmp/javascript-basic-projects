@@ -18,3 +18,6 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 [4 - Navbar](https://rafaelhmp.github.io/javascript-basic-projects/4-navbar/)
 
 [5 - Sidebar](https://rafaelhmp.github.io/javascript-basic-projects/5-sidebar/)
+
+[6 - Modal](https://rafaelhmp.github.io/javascript-basic-projects/6-modal/)
+>Aqui criei uma feature onde o modal irá fechar caso clique fora
