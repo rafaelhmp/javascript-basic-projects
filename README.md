@@ -21,3 +21,5 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 
 [6 - Modal](https://rafaelhmp.github.io/javascript-basic-projects/6-modal/)
 >Aqui criei uma feature onde o modal irá fechar caso clique fora
+
+[7 - Questions](https://rafaelhmp.github.io/javascript-basic-projects/7-questions/)
