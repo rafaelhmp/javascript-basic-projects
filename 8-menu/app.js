@@ -74,10 +74,22 @@ const menu = [
 ];
 
 const sectionCenter = document.querySelector('.section-center');
+const filterBtns = document.querySelectorAll('.filter-btn');
 
+// Carregar itens
 window.addEventListener('DOMContentLoaded', () => {
   displayMenuItems(menu);
 })
+
+filterBtns.forEach((btn) => {
+  btn.addEventListener('click', (e) => {
+    console.log(e.currentTarget.dataset.id);
+  })
+})
+
+
+
+
 
 function displayMenuItems(menuItems) {
   let displayMenu = menuItems.map((item) => {
