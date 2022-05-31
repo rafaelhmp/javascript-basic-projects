@@ -25,3 +25,5 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 [7 - Questions](https://rafaelhmp.github.io/javascript-basic-projects/7-questions/)
 
 [8 - Menu](https://rafaelhmp.github.io/javascript-basic-projects/8-menu/)
+
+[9 - Video](https://rafaelhmp.github.io/javascript-basic-projects/9-video/)
