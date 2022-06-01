@@ -59,9 +59,7 @@ Variables
 Global Styles
 ===============
 */
-html {
-  scroll-behavior: smooth;
-}
+
 *,
 ::after,
 ::before {
@@ -206,6 +204,7 @@ nav {
   width: 100%;
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
+  transition: ease-in-out .5s;
 }
 .fixed-nav .links a {
   color: var(--clr-grey-1);
