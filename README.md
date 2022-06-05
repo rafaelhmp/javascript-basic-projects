@@ -33,3 +33,5 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 [11 - Tabs](https://rafaelhmp.github.io/javascript-basic-projects/11-tabs/)
 
 [12 - Countdown](https://rafaelhmp.github.io/javascript-basic-projects/12-countdown-timer/)
+
+[13 - Lorem Ipsum](https://rafaelhmp.github.io/javascript-basic-projects/13-lorem-ipsum/)
