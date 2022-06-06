@@ -21,6 +21,7 @@ form.addEventListener('submit', addItem);
 clearBtn.addEventListener('click', clearItems);
 
 // ****** FUNCTIONS **********
+
 // Add item a lista
 function addItem(e) {
   e.preventDefault();
@@ -72,7 +73,6 @@ function addItem(e) {
     displayAlert("Por favor, insira um valor", "danger");
   }
 }
-
 // Deletar item da lista
 function deleteItem(e) {
   const element = e.currentTarget.parentElement.parentElement;
@@ -110,7 +110,6 @@ function clearItems() {
   setBackToDefault();
   // localStorage.removeItem('list');
 }
-
 // Mostrar alert
 function displayAlert(text, action) {
   alert.textContent = text;
@@ -129,8 +128,13 @@ function setBackToDefault() {
   editID = ""
   submitBtn.textContent = 'submit';
 }
+
 // ****** LOCAL STORAGE **********
 function addToLocalStorage(id, value) {
+  const grocery = {id, value};
+  let items = localStorage.getItem('list') ? JSON.parse(localStorage.getItem('list')): [] ;
+  items.push(grocery);
+  localStorage.setItem('list', JSON.stringify(items));
 }
 function removeFromLocalStorage(id) {
 }
