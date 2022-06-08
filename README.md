@@ -37,3 +37,5 @@ Projetos desenvolvidos pelo [John Smilga](https://github.com/john-smilga) com o 
 [13 - Lorem Ipsum](https://rafaelhmp.github.io/javascript-basic-projects/13-lorem-ipsum/)
 
 [14 - Grocery Bud](https://rafaelhmp.github.io/javascript-basic-projects/14-grocery-bud/)
+
+[15 - Slider](https://rafaelhmp.github.io/javascript-basic-projects/15-slider/)
